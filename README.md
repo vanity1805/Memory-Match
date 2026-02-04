@@ -1,6 +1,8 @@
 📖 Description
+
 Memory Match is a classic concentration game where players flip cards to find matching pairs. The game features 16 cards arranged in a 4×4 grid with 8 unique symbol pairs to match. Test your memory and try to complete the game in as few moves as possible!
 Each card displays beautifully hand-drawn symbols including an Apple, Orange, Lemon, Grape cluster, Star, Heart, Diamond, and Moon crescent. The game tracks your moves and time, giving you a star rating based on your performance.
+
 ✨ Features
 
 Clean, Modern UI - Dark theme with smooth animations and polished visual effects
